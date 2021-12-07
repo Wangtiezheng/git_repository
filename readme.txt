@@ -3,3 +3,4 @@ I will test diff command.
 add a new line.
 I will test checkout command after add.
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
