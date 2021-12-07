@@ -2,4 +2,4 @@ this is a new file.
 I will test diff command.
 add a new line.
 I will test checkout command after add.
-Creating a new branch is quick.
+Creating a new branch is quick and simple.
