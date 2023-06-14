@@ -4,4 +4,4 @@ I will test checkout command after add.
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 This is a new code line.
-This is a dev2 branch modify.
+This is a deo2 branch modify.
