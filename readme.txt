@@ -14,3 +14,5 @@ This is b deo2 branch modify.
 
 add one line.
 >>>>>>> refs/remotes/origin/master
+
+test + 1
